@@ -21,8 +21,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Enable Internet Information Services
 - Install Web Platform
-- Install Sql
-- item
+- Install MySql
+- Install OS Ticket
 - Configure  Permisson
 
 <h2>Installation Steps</h2>
@@ -45,11 +45,6 @@ Register PHP from within IIS
 
 Reload IIS (Open IIS, Stop and Start the server)
 
-Install osTicket v1.15.8
-Download osTicket from the Installation Files Folder
-Extract and copy “upload” folder to c:\inetpub\wwwroot
-Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
-
 Reload IIS (Open IIS, Stop and Start the server)
 
 </p>
@@ -59,18 +54,16 @@ Reload IIS (Open IIS, Stop and Start the server)
 <img src="https://i.imgur.com/NWQ1Ntp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open IIS as an Admin
-
-Register PHP from within IIS
-
-Reload IIS (Open IIS, Stop and Start the server)
 
 Install osTicket v1.15.8
 Download osTicket from the Installation Files Folder
 Extract and copy “upload” folder to c:\inetpub\wwwroot
-Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+Within c:\inetpub\wwwroot, Rename “upload” to “osTick
 
 Reload IIS (Open IIS, Stop and Start the server)
 
 </p>
 <br />
+<img src="https://i.imgur.com/NWQ1Ntp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
