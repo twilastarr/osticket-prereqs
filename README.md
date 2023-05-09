@@ -36,7 +36,7 @@ Go to control panel within your remote connection and click on programs. Then cl
 <br />
 
 <p>
-<img src="https://i.imgur.com/Q72LM43.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NWQ1Ntp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Open IIS as an Admin
