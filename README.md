@@ -64,6 +64,16 @@ Reload IIS (Open IIS, Stop and Start the server)
 
 </p>
 <br />
-<img src="https://i.imgur.com/NWQ1Ntp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wzmI3iF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+<br />
+
+Rename: ost-config.php
+From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+
+
 
 
