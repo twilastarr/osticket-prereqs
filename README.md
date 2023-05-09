@@ -36,10 +36,22 @@ Go to control panel within your remote connection and click on programs. Then cl
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Q72LM43.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open IIS as an Admin
+
+Register PHP from within IIS
+
+Reload IIS (Open IIS, Stop and Start the server)
+
+Install osTicket v1.15.8
+Download osTicket from the Installation Files Folder
+Extract and copy “upload” folder to c:\inetpub\wwwroot
+Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+
+Reload IIS (Open IIS, Stop and Start the server)
+
 </p>
 <br />
 
@@ -47,6 +59,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open IIS as an Admin
+
+Register PHP from within IIS
+
+Reload IIS (Open IIS, Stop and Start the server)
+
+Install osTicket v1.15.8
+Download osTicket from the Installation Files Folder
+Extract and copy “upload” folder to c:\inetpub\wwwroot
+Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+
+Reload IIS (Open IIS, Stop and Start the server)
+
 </p>
 <br />
